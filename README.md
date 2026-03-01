@@ -23,7 +23,7 @@ class class_name :
 <p>Object is a real world entity which is created using class </p>
 <b>syntax:</b>
 <br>
-object_name()
+<b>object_name()</b>
 <br>
 -->In python PVM is responsible for the creation of object in heap memory
 <br>
