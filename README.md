@@ -14,6 +14,7 @@ Class is a Blue Print/ Master Plan which used to create the object,and it is use
 -->This block is known as class scope or class block
 <br>
 <b>Syntax of class</b>
+<br>
 class class_name :
 <br>
 ------- pass
