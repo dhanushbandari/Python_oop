@@ -15,8 +15,6 @@ What Is Class.?
 <br>
 <b>Syntax of class</b>
 class class_name :
-     # logic of code
-     ---------------
-     ---------------
+<br>
      pass
 <hr>
