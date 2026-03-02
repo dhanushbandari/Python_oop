@@ -50,4 +50,4 @@ Class Variable are the variable which is declared inside the class without self 
 <br>
 ---> class variable are stored in a memory space known as class object 
 <br>
- <b>Note:-its not reccommanded to access class variable using object reference</b>
+<b>Note:-its not reccommanded to access class variable using object reference</b>
