@@ -42,3 +42,12 @@ class class_name :
 <hr>
 <b>Reference Variable</b>
 The variable which stores the object data is known as object reference 
+<br>
+<b>Class Variable </b>
+Class Variable are the variable which is declared inside the class without self keyword 
+<br>
+---> class variable gets life during the class loading("Expor Import mechanism")
+<br>
+---> class variable are stored in a memory space known as class object 
+<br>
+ <b>Note:-its not reccommanded to access class variable using object reference</b>
