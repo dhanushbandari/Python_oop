@@ -38,3 +38,7 @@ class class_name :
 -->State of an object is technically represented by variables in python
 <br>
 -->Real time example for state are color of mobile,prize of car ect..
+<br>
+<hr>
+<b>Reference Variable</b>
+The variable which stores the object data is known as object reference 
