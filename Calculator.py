@@ -1,7 +1,7 @@
 class Calculator:
     def __init__(self):
-        self.a=int(input("Enter the value of a: "))
-        self.b=int(input("Enter the value of b: "))
+        self.a=float(input("Enter the value of a: "))
+        self.b=float(input("Enter the value of b: "))
 
     def add(self):
         return self.a+self.b
@@ -18,3 +18,4 @@ print("Addition: ",calc.add())
 print("Subtraction: ",calc.sub())
 print("Multiplication: ",calc.mul())
 print("Division: ",calc.div())
+
