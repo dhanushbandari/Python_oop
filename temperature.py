@@ -9,7 +9,7 @@ class TemperatureConverter:
         return (fahrenheit - 32) * 5/9
 
 
-# Using static methods (no object needed)
+
 
 print("25°C in Fahrenheit:", 
       TemperatureConverter.celsius_to_fahrenheit(25))
