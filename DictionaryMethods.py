@@ -4,7 +4,10 @@ def check_key(my_dict,key):
     else:
         return "Key is not present in the dictionary"
     
-my_dict={"name":"Alice","age":30,"city":"New York"}
+my_dict={"name":"Alice",
+         "age":30,
+         "city":"New York"
+         }
 print(check_key(my_dict,"name"))            
 print(check_key(my_dict,"country"))
 
