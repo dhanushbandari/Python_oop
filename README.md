@@ -51,3 +51,12 @@ Class Variable are the variable which is declared inside the class without self 
 ---> class variable are stored in a memory space known as class object 
 <br>
 <b>Note:-its not reccommanded to access class variable using object reference</b>
+
+<hr>
+<b>METHODS IN PYTHON </b>
+<br>
+<b>-- 1. Instance Method --</b>
+<br>
+<b>-- 2. Class Method --</b>
+<br>
+<b>-- 3. Static Method --</b>

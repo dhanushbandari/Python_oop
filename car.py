@@ -9,6 +9,8 @@ class Car:
         self.color = "Yellow"
         self.price = None
 
+    
+
 
 c1=Car()
 c1.price = float(input("Enter the price of the car: "))
